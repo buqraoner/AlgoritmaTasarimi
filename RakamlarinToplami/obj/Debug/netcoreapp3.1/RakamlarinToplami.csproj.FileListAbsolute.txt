@@ -1,0 +1,13 @@
+C:\Users\bolet\source\repos\RakamlarinToplami\bin\Debug\netcoreapp3.1\RakamlarinToplami.exe
+C:\Users\bolet\source\repos\RakamlarinToplami\bin\Debug\netcoreapp3.1\RakamlarinToplami.deps.json
+C:\Users\bolet\source\repos\RakamlarinToplami\bin\Debug\netcoreapp3.1\RakamlarinToplami.runtimeconfig.json
+C:\Users\bolet\source\repos\RakamlarinToplami\bin\Debug\netcoreapp3.1\RakamlarinToplami.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\RakamlarinToplami\bin\Debug\netcoreapp3.1\RakamlarinToplami.dll
+C:\Users\bolet\source\repos\RakamlarinToplami\bin\Debug\netcoreapp3.1\RakamlarinToplami.pdb
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.AssemblyInfo.cs
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.dll
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.pdb
+C:\Users\bolet\source\repos\RakamlarinToplami\obj\Debug\netcoreapp3.1\RakamlarinToplami.genruntimeconfig.cache

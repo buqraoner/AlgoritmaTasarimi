@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.AssemblyInfo.cs
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\bin\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.exe
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\bin\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.deps.json
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\bin\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.runtimeconfig.json
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\bin\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\bin\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.dll
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\bin\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.pdb
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.dll
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.pdb
+C:\Users\bolet\source\repos\BirdenN'eKadarOlanSayilarinToplami\BirdenN'eKadarOlanSayilarinToplami\obj\Debug\netcoreapp3.1\BirdenN'eKadarOlanSayilarinToplami.genruntimeconfig.cache

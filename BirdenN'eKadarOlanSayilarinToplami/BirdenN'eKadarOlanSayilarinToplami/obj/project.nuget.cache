@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4D02l4/rpkyXerdF+JbnNjnLWmoFttjIfU7Wg/QCoohZxpR8fG6JD4KQRGhZ7UftT2N3JiRBfAq3lA3uyGeNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\BirdenN'eKadarOlanSayilarinToplami\\BirdenN'eKadarOlanSayilarinToplami\\BirdenN'eKadarOlanSayilarinToplami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xr2mREYa4LdGYEf/5BzIoOVWhEXaMUDO/xeZDiGbROoy1qfjpJ89A5XZGlkGz/7dyBI4sXHPAT5ziZ9x8YldVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\AralikliCiftSayilarinToplami\\AralikliCiftSayilarinToplami\\AralikliCiftSayilarinToplami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

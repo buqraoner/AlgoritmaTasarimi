@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WZBkZnu7mYMXO+q6BZiQhpQ0Fo9c5zJL2C5vcJZW4HF13Vt8AbnhoN6PXFjFc1YPZ0rNpnd8B6v/uZE6O8l7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\RakamlarinToplami\\RakamlarinToplami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
