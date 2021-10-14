@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\bin\Debug\netcoreapp3.1\ForDöngüsü.exe
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\bin\Debug\netcoreapp3.1\ForDöngüsü.deps.json
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\bin\Debug\netcoreapp3.1\ForDöngüsü.runtimeconfig.json
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\bin\Debug\netcoreapp3.1\ForDöngüsü.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\bin\Debug\netcoreapp3.1\ForDöngüsü.dll
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\bin\Debug\netcoreapp3.1\ForDöngüsü.pdb
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.AssemblyInfo.cs
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.dll
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.pdb
+C:\Users\bolet\source\repos\ForDöngüsü\ForDöngüsü\obj\Debug\netcoreapp3.1\ForDöngüsü.genruntimeconfig.cache
