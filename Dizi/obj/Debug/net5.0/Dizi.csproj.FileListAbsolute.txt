@@ -1,0 +1,16 @@
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\Dizi.exe
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\Dizi.deps.json
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\Dizi.runtimeconfig.json
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\Dizi.runtimeconfig.dev.json
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\Dizi.dll
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\ref\Dizi.dll
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\bin\Debug\net5.0\Dizi.pdb
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.csproj.AssemblyReference.cache
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.AssemblyInfoInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.AssemblyInfo.cs
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.csproj.CoreCompileInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.dll
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\ref\Dizi.dll
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.pdb
+C:\Users\bolet\AlgoritmaTasarimi\Dizi\obj\Debug\net5.0\Dizi.genruntimeconfig.cache
