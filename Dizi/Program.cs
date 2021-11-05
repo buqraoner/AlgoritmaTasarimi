@@ -6,7 +6,17 @@ namespace Dizi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("N Değerini giriniz : ");
+
+            int limit =Convert.ToInt32(Console.ReadLine());
+
+                int[] sayilar = new Dizi().Olustur(limit);
+
+
+
+            
+
+
         }
     }
-}d
+}
