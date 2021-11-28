@@ -1,0 +1,16 @@
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\CharRakam.exe
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\CharRakam.deps.json
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\CharRakam.runtimeconfig.json
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\CharRakam.runtimeconfig.dev.json
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\CharRakam.dll
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\ref\CharRakam.dll
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\bin\Debug\net5.0\CharRakam.pdb
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.csproj.AssemblyReference.cache
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.AssemblyInfoInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.AssemblyInfo.cs
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.csproj.CoreCompileInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.dll
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\ref\CharRakam.dll
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.pdb
+C:\Users\bolet\AlgoritmaTasarimi\CharRakam\obj\Debug\net5.0\CharRakam.genruntimeconfig.cache
