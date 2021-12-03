@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZrSChu3pcjfXUsmqjBvMdyakdUgwFRXXRDxCv3/cKZELu7DxcTEmMrFTVNy9Nf45/UmeSpf90i1akz5FyDLUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\AlgoritmaTasarimi\\String\\String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
