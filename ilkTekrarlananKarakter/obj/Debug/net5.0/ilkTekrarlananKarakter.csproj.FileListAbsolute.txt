@@ -1,0 +1,16 @@
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ilkTekrarlananKarakter.exe
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ilkTekrarlananKarakter.deps.json
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ilkTekrarlananKarakter.runtimeconfig.json
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ilkTekrarlananKarakter.runtimeconfig.dev.json
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ilkTekrarlananKarakter.dll
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ref\ilkTekrarlananKarakter.dll
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\bin\Debug\net5.0\ilkTekrarlananKarakter.pdb
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.csproj.AssemblyReference.cache
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.AssemblyInfoInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.AssemblyInfo.cs
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.csproj.CoreCompileInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.dll
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ref\ilkTekrarlananKarakter.dll
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.pdb
+C:\Users\bolet\AlgoritmaTasarimi\ilkTekrarlananKarakter\obj\Debug\net5.0\ilkTekrarlananKarakter.genruntimeconfig.cache
