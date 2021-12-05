@@ -1,0 +1,16 @@
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\IkizHarfBulma.exe
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\IkizHarfBulma.deps.json
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\IkizHarfBulma.runtimeconfig.json
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\IkizHarfBulma.runtimeconfig.dev.json
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\IkizHarfBulma.dll
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\ref\IkizHarfBulma.dll
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\bin\Debug\net5.0\IkizHarfBulma.pdb
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.csproj.AssemblyReference.cache
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.AssemblyInfoInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.AssemblyInfo.cs
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.csproj.CoreCompileInputs.cache
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.dll
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\ref\IkizHarfBulma.dll
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.pdb
+C:\Users\bolet\AlgoritmaTasarimi\IkizHarfBulma\obj\Debug\net5.0\IkizHarfBulma.genruntimeconfig.cache
