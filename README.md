@@ -1,4 +1,6 @@
-# AlgoritmaTasarimi
+# AlgoritmaTasarimi Eğitimi
+
+
 
 
 
